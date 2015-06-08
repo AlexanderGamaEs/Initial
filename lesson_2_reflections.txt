@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+When you do the git init command, a new directory called .git is created, ant this metadata is the base of git technology
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Because git recognize these file
